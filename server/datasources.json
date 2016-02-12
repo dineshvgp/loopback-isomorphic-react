@@ -1,0 +1,14 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "loopsamp": {
+    "host": "localhost",
+    "database": "loopback",
+    "username": "pguser",
+    "password": "pgpass",
+    "name": "loopsamp",
+    "connector": "postgresql"
+  }
+}
