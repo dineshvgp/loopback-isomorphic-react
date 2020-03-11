@@ -18,7 +18,7 @@
     "compression": "^1.0.3",
     "cors": "^2.5.2",
     "flummox": "^2.13.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "helmet": "^0.14.0",
     "history": "^1.17.0",
     "loopback": "^2.22.0",
